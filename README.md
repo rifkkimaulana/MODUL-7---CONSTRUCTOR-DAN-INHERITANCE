@@ -1,0 +1,2 @@
+# MODUL-7---CONSTRUCTOR-DAN-INHERITANCE
+ Latihan JAVA pada Modul 7
