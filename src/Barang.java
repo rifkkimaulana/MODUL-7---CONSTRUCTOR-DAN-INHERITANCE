@@ -32,7 +32,7 @@ class Barang {
     }
     
     public String tampilBarang() {
-      return("Kode Barang/t:" + kode + "\nNama Barang\t: " + nama + "/n");
+      return("Kode Barang/t: " + kode + "\nNama Barang\t: " + nama + "/n");
     }
 }
 
